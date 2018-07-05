@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Spring-Boot-Classes: BOOT-INF/classes/
+Implementation-Title: mybatis-spring-boot
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Administrator
+Start-Class: tk.mybatis.springboot.Application
+Created-By: Apache Maven 3.3.9
+Implementation-URL: http://projects.spring.io/spring-boot/mybatis-spri
+ ng-boot/
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Vendor-Id: tk.mybatis
+Build-Jdk: 1.7.0_67
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Version: 1.5.1.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Archiver-Version: Plexus Archiver
+
